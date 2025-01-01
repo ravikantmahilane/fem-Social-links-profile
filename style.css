@@ -1,0 +1,106 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color:white;
+    font-family: "Inter";
+}
+.card{
+    background-color: hsl(0, 0%, 12%);
+    height: 570px;
+    width: 330px;
+    border-radius: 10px;
+    padding: 25px;
+}
+.img{
+    border-radius: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.name{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: xx-large;
+    font-weight: 400;
+}
+.loc{
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    font-weight: 600;   
+   
+}
+.job{
+    color: hsl(0, 0%, 44%);
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.link1{
+    width: 300px;
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.link2 {
+    width: 300px;
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.link3 {
+    width: 300px;
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.link4 {
+    width: 300px;
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.link5 {
+    width: 300px;
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.link1:hover, .link2:hover, .link3:hover, .link4:hover, .link5:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+   padding-top: 80px;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
